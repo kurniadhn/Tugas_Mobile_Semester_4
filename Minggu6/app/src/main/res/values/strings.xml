@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">Minggu6_1</string>
+    <string name="move_activity">Pindah Activty</string>
+    <string name="this_is_moveactivity">Ini Aktivitas Pindah</string>
+
+
+
+</resources>
